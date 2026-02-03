@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Eren Dogukan Budak</h1>
-<h3 align="center">Versatile CS upper-level student | Open to opportunities</h3>
+<h3 align="center">Versatile CS senior-level student | Open to opportunities</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
