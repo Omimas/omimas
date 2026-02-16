@@ -1,4 +1,4 @@
-### Hi there, I'm Eren Dogukan Budak! 👋
+### Hi there, I'm Eren D. Budak! 👋
 
 I am a **Computer Science Senior Student** at **Kielce University of Technology**, currently focusing on **Backend Development** and **Cloud Infrastructure**.
 
