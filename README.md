@@ -28,11 +28,11 @@ My passion lies in building scalable systems and bridging the gap between academ
 
 ### 🎯 Career Goals & Availability
 
-I am seeking **Junior** or **Internship** opportunities where I can grow through real code and practical problem-solving.
+I am actively seeking **Junior** or **Internship** opportunities where I can contribute to real-world production environments and grow alongside a professional team.
 
-* **🌍 Location & Mobility:** Currently based in **Poland**. I am fully open to **Relocation** within Poland or Europe for the right opportunity.
-* **💻 Work Model:** I am highly flexible and open to **On-site**, **Hybrid**, or **Remote** working arrangements.
-* **💡 Professional Mindset:** I value mentorship and am ready to transition from academia to industry with a professional mindset and a strong focus on maintainable systems.
-* **💰 Compensation:** I am looking for a professional environment that offers a collaborative culture and competitive compensation aligned with market standards.
+* **🌍 Location & Mobility:** Currently based in **Poland**. I am fully open to **Relocation within Poland** for the right opportunity.
+* **💻 Work Model:** Highly flexible and open to **On-site**, **Hybrid**, or **Remote** arrangements across Poland.
+* **💡 Professional Growth:** I prioritize environments that offer strong mentorship and opportunities for technical upskilling.
+* **⚖️ Compensation & Relocation:** I am looking for a professional partnership based on **fair market compensation** that reflects the cost of living and relocation requirements. I am open to discussing packages that may include **relocation support** or **educational benefits** to ensure a sustainable and productive transition.
 
 📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/erenbudak/)
