@@ -2,7 +2,7 @@
 
 I am a **Computer Science Senior Student at Kielce University of Technology**, currently focusing on **Backend Development** and **Cloud Infrastructure**.
 
-My passion lies in building scalable systems and bridging the gap between academic theory and industry standards. I am actively working on real-world data processing pipelines and cloud configurations.
+My passion in building scalable systems and bridging the gap between academic theory and industry standards. I am actively working on real-world data processing pipelines and cloud configurations.
 
 ---
 
