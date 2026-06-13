@@ -41,12 +41,18 @@ I am actively seeking **Junior or Internship** opportunities where I can contrib
 * 💡 **Professional Growth:** I prioritize environments that offer strong mentorship and opportunities for technical upskilling.
 * 🤝 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/erenbudak)
 
-* ---
+*
+
+---
 
 ### 🛡️ Cybersecurity & Infrastructure Focus
-As I transition into **SOC Analysis and IT Infrastructure**, I am actively hardening my skills in network security, system administration, and threat detection through hands-on labs.
+As I transition into **SOC Analysis and IT Infrastructure**, I am actively hardening my skills in network security, system administration, and threat detection.
 
-* 🔓 **Hands-on Practice:** Regularly tackling security challenges and infrastructure hardening scenarios on [TryHackMe](https://tryhackme.com/p/cs.erendogukanbudak).
-* 📈 **Continuous Learning:** Building my expertise in incident response, log analysis, and cloud security compliance.
+* 🧪 **Hands-on Lab Progress:** [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Security%20Practitioner-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/cs.erendogukanbudak)
+    
+* 🏆 **Key Achievements:**
+    * **Active Learner:** Consistently practicing on real-world scenarios.
+    * **Infrastructure Hardening:** Focused on Azure, Linux, and Network Security.
+    * **Monitoring & Detection:** Building skills in log analysis and SOC operations.
 
 ---
