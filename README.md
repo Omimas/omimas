@@ -33,6 +33,16 @@ My passion in building scalable systems and bridging the gap between academic th
 
 ---
 
+### 🛡️ Cybersecurity & Infrastructure Focus
+As I transition into **SOC Analysis and IT Infrastructure**, I am actively hardening my skills in network security, system administration, and threat detection through hands-on labs.
+
+* 🔓 **Hands-on Practice:** Regularly tackling security challenges and infrastructure hardening scenarios on [TryHackMe](https://tryhackme.com/p/cs.erendogukanbudak).
+* 📈 **Continuous Learning:** Building my expertise in incident response, log analysis, and cloud security compliance.
+
+---
+
+---
+
 ### 🎯 Career Goals & Availability
 I am actively seeking **Junior or Internship** opportunities where I can contribute to real-world production environments and grow alongside a professional team.
 
