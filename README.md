@@ -41,8 +41,6 @@ I am actively seeking **Junior or Internship** opportunities where I can contrib
 * 💡 **Professional Growth:** I prioritize environments that offer strong mentorship and opportunities for technical upskilling.
 * 🤝 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/erenbudak)
 
-*
-
 ---
 
 ### 🛡️ Cybersecurity & Infrastructure Focus
